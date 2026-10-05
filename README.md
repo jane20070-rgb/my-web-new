@@ -1,3 +1,6 @@
-[
-C:\Users\USER\Desktop\my-web\README.md
-](https://github.com/jane20070-rgb/my-web-new.git)
+# My 自我介紹
+1. 葉以瑄
+2. 1151841
+3. ![![alt text](image-6.png)]
+4. 設計組
+5. 看動漫
